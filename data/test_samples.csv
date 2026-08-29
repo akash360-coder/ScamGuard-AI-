@@ -1,0 +1,5 @@
+message,label
+"URGENT! Your bank account is locked. Click here to verify your password now.",SCAM
+"Hi Sam, can we meet tomorrow at 3 PM to review the presentation?",LEGITIMATE
+"Congratulations! You are selected for a free prize. Reply immediately to claim it.",SCAM
+"The meeting is rescheduled for Friday at 11 AM.",LEGITIMATE

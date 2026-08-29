@@ -1,0 +1,6 @@
+{
+  "urgent": ["urgent", "immediately", "today only", "act now"],
+  "credential_theft": ["password", "verify account", "login", "OTP", "one-time code"],
+  "financial_pressure": ["payment", "wire transfer", "gift card", "bitcoin"],
+  "threats": ["suspended", "locked account", "legal action", "arrest"]
+}

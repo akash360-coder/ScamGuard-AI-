@@ -1,0 +1,1 @@
+"""ScamGuard AI package."""
